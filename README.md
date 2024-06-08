@@ -90,15 +90,6 @@ Our platform offers a one-stop solution for all travel planning needs, combining
 - Provide reviews/feedback
 - About and contact management
 
-**Operator:**
-- Login/logout
-- View content
-- Payment management
-- Password management
-- Customer package and account management
-- View service provider details
-- Update personal and account info
-
 **Service Provider:**
 - Sign up/sign in
 - Create account
@@ -169,15 +160,7 @@ Our platform offers a one-stop solution for all travel planning needs, combining
 - State
 - Username
 - Password
-
-### Design
-
-To be defined.
-
-### Website View
-
-To be defined.
-
+  
 ## Technologies Used
 
 **HTML:** For structuring the web pages.
