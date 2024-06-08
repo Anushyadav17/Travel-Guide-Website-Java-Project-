@@ -1,5 +1,8 @@
 # Travel Guide Website
 
+![image](https://github.com/Anushyadav17/Travel-Guide-Website-java-project-/assets/142656149/8381bd8e-2b04-4f7c-9009-c8375abb7553)
+
+
 ## Overview
 
 The Travel Guide Website is a comprehensive online platform designed to provide valuable and detailed information to travelers. It assists users in efficiently planning their trips by offering information on popular tourist spots, local attractions, accommodations, and transportation options. The platform also includes reviews, travel tips, cultural information, and language assistance, aiming to empower travelers to have memorable and enriching travel experiences.
